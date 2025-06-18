@@ -110,6 +110,6 @@
 </tr>    
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?theme=dark&username=netcrawlerr&show_icons=true&locale=en&layout=compact" alt="netcrawlerr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=netcrawlerr&theme=dark&hide_border=false&show_icons=true&locale=en&layout=compact" alt="netcrawlerr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?theme=dark&username=netcrawlerr&show_icons=true&locale=en" alt="netcrawlerr" /></p>
