@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hey, I'm 𝕄𝕖𝕛𝕚𝕕</h1>
 
-<h3 align="left">An Explorative Developer </h3>
+<h3 align="left">Explorative Developer </h3>
 
 <p>
   <img src="https://wakatime.com/badge/user/3b0e9b76-6eac-4894-a8ba-ec9a3b1ce6f2.svg" alt="Wakatime" />
