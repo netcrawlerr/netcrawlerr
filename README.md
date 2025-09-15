@@ -1,115 +1,75 @@
-<h1 align="center">Hi 👋, I'm 𝕄𝕖𝕛𝕚𝕕</h1>
-<h3 align="center">A Humble Developer. Learning to Craft Something Cool</h3>
+<h1 align="left">👋 Hey, I'm 𝕄𝕖𝕛𝕚𝕕</h1>
 
-- 🔭 I’m currently in Production
+<h3 align="left">An Explorative Developer </h3>
 
-- 🌱 I’m currently learning
-
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **abdulmejidamk@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/_netcrawler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_netcrawler" height="30" width="40" /></a>
+<p>
+  <img src="https://wakatime.com/badge/user/3b0e9b76-6eac-4894-a8ba-ec9a3b1ce6f2.svg" alt="Wakatime" />
+  <img src="https://komarev.com/ghpvc/?username=netcrawlerr" alt="GitHub Profile Views"/>
 </p>
 
+<p align="left">
+  I’m a developer who loves building apps, websites, and tools that solve real problems.<br>
+  I enjoy turning ideas into clean, functional, and scalable projects.<br>
+  <br>
+  🛠️ I focus on creating projects that are both functional and elegant.<br>
+  🌱 Always exploring new technologies & improving my craft.<br>
+  💡 Passionate about problem-solving, system design, desktop, mobile, and web apps.<br>
+  📫 Feel free to reach out if you want to collaborate on exciting projects or just talk tech!
+</p>
 
-### &nbsp; 🖥️ Tech's I Use
+---
 
-<table align="center">
-    <tr>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="Javascrip"/>
-            <br>Javascript
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET"/>
-            <br>.NET
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#"/>
-            <br>C#
-        </td>
-         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/>
-            <br>Node.js
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/>
-            <br>Express
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript"/>
-            <br>TypeScript
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
-            <br>Python
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/>
-            <br>React
-        </td>
-         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/>
-            <br>Next.js
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS"/>
-            <br>Tailwind CSS
-        </td>
-         <td align="center" width="96">
-        <img src="https://icons-for-free.com/iff/png/256/Expo-1329545818230359497.png" width="48" height="48" alt="Expo"/>
-        <br>Expo
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native"/>
-        <br>React Native
-    </td>
-        <td align="center" width="96">
-            <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="48" height="48" alt="zustand"/>
-            <br>Zustand
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma"/>
-            <br>Prisma
-        </td>
-    </tr>
-    <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/>
-        <br>Docker
-    </td>
-     <td align="center" width="96">
-            <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" width="48" height="48" alt="MSSQL"/>
-            <br>MSSQL
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/>
-            <br>MySQL
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLITE"/>
-            <br>Sqlite
-        </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite"/>
-        <br>Vite
-    </td>
-    <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase"/>
-            <br>Supabase
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="pg"/>
-            <br>PostgreSQL
-        </td>
-</tr>    
+#### 🌐 Connect with me
+
+<p align="left">
+  <a href="https://t.me/netcrawler_ish" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Telegram" height="20" width="20" />
+  </a>
+  <a href="mailto:abdulmejidamk@gmail.com" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="20" width="20" />
+  </a>
+  <a href="https://x.com/netcrawleronx" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/X_logo_2023_%28white%29.png/960px-X_logo_2023_%28white%29.png" alt="X / Twitter" height="20" width="20" />
+  </a>
+  <a href="https://github.com/netcrawlerr" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="20" width="20" />
+  </a>
+</p>
+
+---
+
+#### 🖥️ Tech's I Use
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="48"/><br>.NET</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="48"/><br>TypeScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br>Next.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cs" width="48"/><br>C#</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=dart" width="48"/><br>Dart</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flutter" width="48"/><br>Flutter</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48"/><br>React</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind</td>
+    <td align="center"><img src="https://icons-for-free.com/iff/png/256/Expo-1329545818230359497.png" width="48"/><br>Expo</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="48"/><br>Zustand</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="48"/><br>SQLite</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br>Linux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub</td>
+  </tr>
 </table>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=netcrawlerr&theme=dark&hide_border=false&show_icons=true&locale=en&layout=compact" alt="netcrawlerr" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?theme=dark&username=netcrawlerr&show_icons=true&locale=en" alt="netcrawlerr" /></p>
+#### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=netcrawlerr&theme=dark&show_icons=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?theme=dark&username=netcrawlerr&show_icons=true" alt="GitHub Stats" />
+</div>
