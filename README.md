@@ -1,38 +1,27 @@
 <table>
   <tr>
-    <!-- LEFT SIDE -->
     <td width="50%" valign="top">
-
-<h1 align="left">👋 Hey, I'm 𝕄𝕖𝕛𝕚𝕕</h1>
-<h3 align="left">Explorative Developer</h3>
-
-<p>
-  <img src="https://wakatime.com/badge/user/3b0e9b76-6eac-4894-a8ba-ec9a3b1ce6f2.svg" />
-  <img src="https://komarev.com/ghpvc/?username=netcrawlerr" />
-</p>
-
-<p align="left">
-  I’m a developer who loves building stuff<br>
-</p>
+      <h2 align="left"> Hey 👋, 𝕄𝕖𝕛𝕚𝕕 here</h2>
+      <h6 align="left">F1 addict dev, pushing to full throttle </h6>
+      <h6 align="left">
+        a dev who loves building stuff<br>
+      </h6>
+      <p>
+        <img src="https://wakatime.com/badge/user/3b0e9b76-6eac-4894-a8ba-ec9a3b1ce6f2.svg" />
+        <img src="https://komarev.com/ghpvc/?username=netcrawlerr" />
+      </p>
     </td>
     <td width="50%" valign="top" align="center">
-
-<img
-  src="https://gh-readme-profile.vercel.app/api?username=netcrawlerr&theme=dark"
-  width="95%"
-/>
+      <img src="https://gh-readme-profile.vercel.app/api?username=netcrawlerr&theme=dark" width="95%" />
     </td>
   </tr>
 </table>
 
-</div>
-
----
+<hr />
 
 <table width="100%">
   <tr>
-    <!-- Left: Languages & Skills (75%) -->
-    <td width="75%" valign="top">
+    <td width="60%" valign="top">
       <div align="center">
         <table>
           <tr>
@@ -62,14 +51,13 @@
         </table>
       </div>
     </td>
-    <td width="25%">
-      <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=netcrawlerr&theme=dark&show_icons=true&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?theme=dark&username=netcrawlerr&show_icons=true" alt="GitHub Stats" />
-</div>
+    <td width="40%" valign="top">
+      <div align="left">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=netcrawlerr&theme=dark&show_icons=true&layout=compact" alt="Top Languages" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=netcrawlerr&theme=dark" alt="GitHub Streak" />
+      </div>
     </td>
   </tr>
 </table>
 
----
-
+<hr />
